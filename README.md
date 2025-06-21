@@ -1,7 +1,11 @@
 # 💫 About Me:
-Hi, I’m Mahdi Hasan, a passionate Computer Science and Engineering student at Green University of Bangladesh.
-I’m eager to collaborate on coding projects, problem-solving, and software quality assurance to build efficient and high-performing applications. Whether it's debugging code, optimizing algorithms, I’m always excited to learn and improve. <br>
-Let me know how we can work together! 🚀
+Mahdi Hasan | Software Engineer 👨‍💻 <br>
+💡 Passionate about clean code, scalable systems, and continuous learning <br>
+🔍 Exploring Web Development, Software Quality Assurance, and Automation <br>
+🧰 Tech Stack: React, MySQL, JavaScript, Node.js, C/C++ <br>
+📊 Focused on building efficient, secure, and user-friendly applications <br>
+📂 Currently working on improving performance and security in web platforms <br>
+🚀 Always learning, always building
 
 ## 🌐 Reach me out:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/silentmahdi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdmahdihasangub) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/see_mahdi) 
