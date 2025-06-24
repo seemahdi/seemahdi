@@ -1,4 +1,4 @@
-# 💫 Hi there, I'm Mahdi Hasan 👨‍💻 
+# 💫 Hi there... I'm Mahdi Hasan 👨‍💻 
 
 ## 🌟 About Me:
 
