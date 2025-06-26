@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Mahdi Hasan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> I'm Mahdi Hasan
 =======================================================================================================================================
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=25&pause=1000&color=30A7DC&center=true&random=true&width=435&lines=%F0%9F%92%A1Inspire.;+%F0%9F%A7%A9Innovate.;%F0%9F%94%A5Ignite." alt="Typing SVG" /></a>
-## 🌟 About Me:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=true&width=435&lines=%F0%9F%92%A1Inspire.;%F0%9F%94%A5Ignite.;%F0%9F%A7%A9+Innovate." alt="Typing SVG" /></a>
+
 💡 Passionate about clean code, scalable systems, and continuous learning <br>
 🔍 Exploring Web Development, Software Quality Assurance, and Automation <br>
 📊 Focused on building efficient, secure, and user-friendly applications <br>
