@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> I'm Mahdi Hasan....
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) <br> I'm Mahdi Hasan.
 =======================================================================================================================================
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&random=true&width=435&lines=%F0%9F%92%A1Inspire.;%F0%9F%94%A5Ignite.;%F0%9F%A7%A9+Innovate." alt="Typing SVG" /></a>
 
